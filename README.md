@@ -148,4 +148,10 @@ Two key visualizations support the quantitative results:
 
 ---
 
-## Project Structure
+## Conclusion
+This project demonstrates a structured, regression-based approach to price optimization that balances statistical rigor with real-world business constraints. By focusing on interpretability and category-level analysis, the results provide actionable pricing insights while avoiding over-confidence in noisy retail data.
+
+---
+
+## Author
+**Tanisha Agarwal**
